@@ -369,7 +369,7 @@
 
 {"A":"0000000000007","B":"SİNEMA 3 HD","C":"7","D":"SİNEMA KANALLARI","E":"SİNEMA KANALLARI","F":"https://2.bp.blogspot.com/-IY69n7fgy3s/XWKnF13pJrI/AAAAAAAAAOQ/qG1s9W0PR-Ub2hhDaH198tCq4k9o5izxwCPcBGAYYCw/s1600/QLABMdm.jpg","G":"https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master_10.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
-{"A":"0000000000006","B":"BEİN SERİES SC-Fİ","C":"7","D":"SİNEMA KANALLARI","E":"SİNEMA KANALLARI","F":"https://1.bp.blogspot.com/-e0oIDqmF9nU/XrWTAVTXRjI/AAAAAAAABKk/zV5zHAEVRT0YkaUv-Ef1ZwwN7mVJGmRpACK4BGAsYHg/PicsArt_04-06-02.15.50.png","https://app.ananizisikicemhehe.xyz/app/kanal/19.json","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"SSUserAgent","O":"","P":0},
+{"A":"0000000000006","B":"BEİN SERİES SC-Fİ","C":"7","D":"SİNEMA KANALLARI","E":"SİNEMA KANALLARI","F":"https://1.bp.blogspot.com/-e0oIDqmF9nU/XrWTAVTXRjI/AAAAAAAABKk/zV5zHAEVRT0YkaUv-Ef1ZwwN7mVJGmRpACK4BGAsYHg/PicsArt_04-06-02.15.50.png","G":"https://app.ananizisikicemhehe.xyz/app/kanal/19.json","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"SSUserAgent","O":"","P":0},
 
 {"A":"0000000000005","B":"BEİN SERİES VİCE","C":"7","D":"SİNEMA KANALLARI","E":"SİNEMA KANALLARI","F":"https://1.bp.blogspot.com/-6bfWUIRmHi0/XrWR42eLxHI/AAAAAAAABKM/AIHVTjxcZKYEYSlTfrfUIx6Z8DA3Tf3NwCK4BGAsYHg/PicsArt_04-06-02.17.03.png","G":"https://app.ananizisikicemhehe.xyz/app/kanal/22.json","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"SSUserAgent","O":"","P":0},
 
