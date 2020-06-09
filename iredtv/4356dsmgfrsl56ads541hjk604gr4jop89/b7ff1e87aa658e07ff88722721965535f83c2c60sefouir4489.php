@@ -5,7 +5,7 @@
 ],"Y":[
 
 
-{"A":"1513","B":"LİSTENİN SONUNA RADYO EKLENDİ.","C":"15","D":"RADYO","E":"Kategorilerden Ulaşabilirsiniz.","F":"https://1.bp.blogspot.com/-3gdEujgQDE8/Xt7tg_7WYpI/AAAAAAAAAio/RsuXEhruGdEZdleK4AiiBEovfBKL9RotQCK4BGAsYHg/s746/PicsArt_06-09-03.56.23.jpg","G":"","H":"","I":"false","J":"","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"05.06.2019 08:19:49","P":0},
+{"A":"1513","B":"LİSTENİN SONUNA RADYO EKLENDİ.","C":"1","D":"ULUSAL KANALLAR","E":"Kategorilerden Ulaşabilirsiniz.","F":"https://1.bp.blogspot.com/-3gdEujgQDE8/Xt7tg_7WYpI/AAAAAAAAAio/RsuXEhruGdEZdleK4AiiBEovfBKL9RotQCK4BGAsYHg/s746/PicsArt_06-09-03.56.23.jpg","G":"","H":"","I":"false","J":"","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"05.06.2019 08:19:49","P":0},
 
 
 {"A":"0","B":"İletişim & Hata Bildir","C":"1","D":"ULUSAL KANALLAR","E":"İletişim ve hata bildirmek için bizimle irtibat kurun.","F":"https://4.bp.blogspot.com/-0yHz4iZlBBs/XWKnF3sJ26I/AAAAAAAAAOI/MSicRpaMiqgwIvpylUT3BSmwr9mQ9rf8ACPcBGAYYCw/s1600/kjH7gkh.png","G":"https://iletisim93.blogspot.com/?m=1","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
@@ -986,17 +986,14 @@
 
 {"A":"101","B":"CANAL C TV HD 576P","C":"9","D":"BELGİUM/FRANCE","E":"BELGİUM/FRANCE","F":"https://4.bp.blogspot.com/-0nWCr_b3MXc/XWKnF6g7rVI/AAAAAAAAAN0/lL0yN5dutp4RI6st7pdppCe9WpZaw0JfgCPcBGAYYCw/s1600/0OZCW2E.png","G":"http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
-
-
-
 {"A":"1132","B":"TV LUX HD 720P","C":"9","D":"BELGİUM/FRANCE","E":"BELGİUM/FRANCE","F":"https://4.bp.blogspot.com/-HFAld771d3c/XWKnF4pmtrI/AAAAAAAAAN0/eOZbGDyUKG4Vzf_K-oHgDHoSggjbH0yxwCPcBGAYYCw/s1600/4zn11v2.png","G":"https://5a0b00d270652.streamlock.net/live/tvlux-live/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"https://www.tvlux.be/live\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"06.04.2019 11:23:30","P":0},
 
 
 
 
-{"A":"1490","B":"KRAL FM","C":"15","D":"RADYO","E":"RADYO","F":"https://1.bp.blogspot.com/-njZa8gynEnk/Xt7GSAN6zvI/AAAAAAAAAYs/gETIWrlMxhATZCxgrxqRkDgbjwZ_wSLLACK4BGAsYHg/s300/PicsArt_06-08-11.22.11.png","G":"https://dygedge.radyotvonline.net/kralfm/playlist.m3u8","H":"backgroundplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"https://www.kralmuzik.com.tr/radyo/kral-fm\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"05.06.2019 08:19:49","P":0},
+{"A":"1490","B":"KRAL FM","C":"15","D":"RADYO","E":"RADYO","F":"https://1.bp.blogspot.com/-njZa8gynEnk/Xt7GSAN6zvI/AAAAAAAAAYs/gETIWrlMxhATZCxgrxqRkDgbjwZ_wSLLACK4BGAsYHg/s300/PicsArt_06-08-11.22.11.png","G":"http://kralsc.radyotvonline.com:80/","H":"backgroundplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"curl/7.51.0","O":"05.06.2019 08:19:49","P":0},
 
-{"A":"1491","B":"KRAL POP FM","C":"15","D":"RADYO","E":"RADYO","F":"https://1.bp.blogspot.com/-PQlivJzMgNc/Xt7JkYcw4zI/AAAAAAAAAZI/lPC8eHqQ00EakTq8mQmuvYa5IccKIamcgCK4BGAsYHg/s300/PicsArt_06-08-11.22.12.png","G":"https://dygedge.radyotvonline.net/kralpop/playlist.m3u8","H":"backgroundplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"https://www.kralmuzik.com.tr/radyo/kral-pop\"}","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"05.06.2019 08:19:49","P":0},
+{"A":"1491","B":"KRAL POP FM","C":"15","D":"RADYO","E":"RADYO","F":"https://1.bp.blogspot.com/-PQlivJzMgNc/Xt7JkYcw4zI/AAAAAAAAAZI/lPC8eHqQ00EakTq8mQmuvYa5IccKIamcgCK4BGAsYHg/s300/PicsArt_06-08-11.22.12.png","G":"http://46.20.3.201:80/","H":"backgroundplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"curl/7.51.0","O":"05.06.2019 08:19:49","P":0},
 
 {"A":"1492","B":"RADYO FENOMEN","C":"15","D":"RADYO","E":"RADYO","F":"https://1.bp.blogspot.com/-sxo5FaQW0Fw/Xt7K_eqoPZI/AAAAAAAAAZk/WFy4595_OXggHo6epvoFWMWXoc4rfExbACK4BGAsYHg/s300/PicsArt_06-08-11.22.15.png","G":"https://listen.radyofenomen.com/fenomen/128/icecast.audio","H":"backgroundplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"05.06.2019 08:19:49","P":0},
 
@@ -1036,6 +1033,6 @@
 
 {"A":"1510","B":"PAL NOSTALJİ","C":"15","D":"RADYO","E":"RADYO","F":"https://1.bp.blogspot.com/-RaSrS9d125o/Xt7idAJA7ZI/AAAAAAAAAhY/zwesG48bQZwcniwZL0t01N8TMdPpjTMQACK4BGAsYHg/s175/PicsArt_06-09-12.47.09.jpg","G":"http://shoutcast.radyogrup.com:1010/;stream/1","H":"backgroundplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"05.06.2019 08:19:49","P":0},
 
-{"A":"1511","B":"RADYO 45 LİK","C":"15","D":"RADYO","E":"RADYO","F":"https://1.bp.blogspot.com/-UePqgx7ma04/Xt7jfw5JPKI/AAAAAAAAAhw/rDJEUGnGwokT3Eh0aY3F-2y5bcGEDiVIQCK4BGAsYHg/s250/PicsArt_06-09-12.48.33.png","G":"http://stream.radyo45lik.com:4545/;stream.mp3","H":"backgroundplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"05.06.2019 08:19:49","P":0},
+{"A":"1511","B":"RADYO 45 LİK","C":"15","D":"RADYO","E":"RADYO","F":"https://1.bp.blogspot.com/-UePqgx7ma04/Xt7jfw5JPKI/AAAAAAAAAhw/rDJEUGnGwokT3Eh0aY3F-2y5bcGEDiVIQCK4BGAsYHg/s250/PicsArt_06-09-12.48.33.png","G":"https://stream.radyo45lik.com:4545/stream","H":"backgroundplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"curl/7.51.0","O":"05.06.2019 08:19:49","P":0},
 
 {"A":"1512","B":"NUMBER ONE TÜRK 90","C":"15","D":"RADYO","E":"RADYO","F":"https://1.bp.blogspot.com/-MwEfnQGdtxw/Xt7lNBs4WyI/AAAAAAAAAiM/1OyKgUnHHZs8yMAvfEoJyhyvUAGf5v4AQCK4BGAsYHg/s300/PicsArt_06-08-11.22.25.png","G":"https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e325182420_1/playlist.m3u8","H":"backgroundplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"05.06.2019 08:19:49","P":0}]}
