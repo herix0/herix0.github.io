@@ -29,7 +29,7 @@
 
 {"A":"01","B":"Bugün Hangi Maç Var?","C":"3","D":"SPOR KANALLARI","E":"Günün Maçları","F":"https://2.bp.blogspot.com/-1X5K3ja9-TY/XWKnFylc3gI/AAAAAAAAAOQ/smbf5CiEi144il2XGadoXDAOTXTbK69EwCPcBGAYYCw/s1600/j8Ixc3D.png","G":"https://bugunmacvarmi.com/","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
 
-{"A":"1046000000076521605300042319","B":"Günlük Maçları İzle","C":"3","D":"SPOR KANALLARI","E":"SPOR KANALLARI","F":"https://1.bp.blogspot.com/-x4omZ4nI7CQ/XsB8zHza1fI/AAAAAAAAAXA/NMc1Nsy4FOUjjrF8j-0aTI15ZoiDipGqgCK4BGAsYHg/canlitvlis3.png","G":"https://iptvpro93.github.io/gunlukmac.html","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"ExoPlayerLib/2.10.1","O":"","P":0},
+{"A":"1046000000076521605300042319","B":"Günlük Maçları İzle","C":"3","D":"SPOR KANALLARI","E":"SPOR KANALLARI","F":"https://1.bp.blogspot.com/-x4omZ4nI7CQ/XsB8zHza1fI/AAAAAAAAAXA/NMc1Nsy4FOUjjrF8j-0aTI15ZoiDipGqgCK4BGAsYHg/canlitvlis3.png","G":"http://www.globalcanlitv.rf.gd/fix.php","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"ExoPlayerLib/2.10.1","O":"","P":0},
 
 {"A":"1046000000076521605300960042319","B":"Günlük Maçları İzle(Yedek1)","C":"3","D":"SPOR KANALLARI","E":"Burayı ekranı yatay şeklinde kullanın!","F":"https://1.bp.blogspot.com/-x4omZ4nI7CQ/XsB8zHza1fI/AAAAAAAAAXA/NMc1Nsy4FOUjjrF8j-0aTI15ZoiDipGqgCK4BGAsYHg/canlitvlis3.png","G":"https://reporectv.net/fix111.html","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"ExoPlayerLib/2.10.1","O":"","P":0},
 
