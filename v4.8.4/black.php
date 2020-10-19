@@ -5,7 +5,7 @@
 ],"Y":[
 
 
-{"A":"1513","B":"LİSTENİN SONUNA RADYO EKLENDİ.","C":"1","D":"ULUSAL KANALLAR","E":"Kategorilerden Ulaşabilirsiniz.","F":"https://1.bp.blogspot.com/-3gdEujgQDE8/Xt7tg_7WYpI/AAAAAAAAAio/RsuXEhruGdEZdleK4AiiBEovfBKL9RotQCK4BGAsYHg/s746/PicsArt_06-09-03.56.23.jpg","G":"","H":"","I":"false","J":"","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"05.06.2019 08:19:49","P":0},
+{"A":"1513","B":"BAYKARA.","C":"1","D":"ULUSAL KANALLAR","E":"Kategorilerden Ulaşabilirsiniz.","F":"https://1.bp.blogspot.com/-3gdEujgQDE8/Xt7tg_7WYpI/AAAAAAAAAio/RsuXEhruGdEZdleK4AiiBEovfBKL9RotQCK4BGAsYHg/s746/PicsArt_06-09-03.56.23.jpg","G":"","H":"","I":"false","J":"","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"05.06.2019 08:19:49","P":0},
 
 
 {"A":"0","B":"İletişim & Hata Bildir","C":"1","D":"ULUSAL KANALLAR","E":"İletişim ve hata bildirmek için bizimle irtibat kurun.","F":"https://4.bp.blogspot.com/-0yHz4iZlBBs/XWKnF3sJ26I/AAAAAAAAAOI/MSicRpaMiqgwIvpylUT3BSmwr9mQ9rf8ACPcBGAYYCw/s1600/kjH7gkh.png","G":"https://iletisim93.blogspot.com/?m=1","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
