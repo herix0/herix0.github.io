@@ -1,8 +1,8 @@
 {"MobilTurk":[
 {"ads_tip":"Admob",
 "main_link":"http://213.128.89.165/TEMEL/SowaProGuide/SowaProGuide_LinkV3.php",
-"app_id":"ca-app-pub-4904391747531253~9681011109",
-"banner_unit_id":"ca-app-pub-4904391747531253/2129824141",
-"inter_unit_id":"ca-app-pub-4904391747531253/8043484043",
+"app_id":"ca-app-pub-9133302355759736~1528781501",
+"banner_unit_id":"ca-app-pub-9133302355759736/7084182901",
+"inter_unit_id":"ca-app-pub-9133302355759736/1831856222",
 "iron_id":""},
 ]}
