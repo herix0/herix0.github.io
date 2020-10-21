@@ -4,7 +4,7 @@
 "country":"Turkey",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png",
 "ulke":"Turkey",
-"ulke_url":"http://213.128.89.165/TEMEL/SowaProGuide/turkey/turkey_cat2.php",
+"ulke_url":"https://github.com/herix0/herix0.github.io/raw/master/app/ch/turkey/turkey.php",
 "country_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png"},
 
 {"ulke_id":9,
