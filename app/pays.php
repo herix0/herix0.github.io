@@ -1,5 +1,13 @@
 {"Ulke":[
 
+{"ulke_id":9999,
+"country":"Telegram Grubumuz",
+"ulke_flag":"https://1.bp.blogspot.com/-CBxD_OnkGRI/X5DAoJcGJQI/AAAAAAAABrA/5ScAAbo2f5czkl9qu-hrKWNStqBLj19bQCLcBGAsYHQ/s0/PicsArt_10-22-01.09.55.png",
+"ulke":"Telegram Grubumuz",
+"ulke_url":"https://t.me/joinchat/MNLF0w-V4XwQZJOSr6kzMw",
+"country_foto":"https://1.bp.blogspot.com/-CBxD_OnkGRI/X5DAoJcGJQI/AAAAAAAABrA/5ScAAbo2f5czkl9qu-hrKWNStqBLj19bQCLcBGAsYHQ/s0/PicsArt_10-22-01.09.55.png"},
+
+
 {"ulke_id":6,
 "country":"Turkey",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png",
