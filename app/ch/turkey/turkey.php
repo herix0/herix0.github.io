@@ -1,3 +1,6 @@
+{"Ulke":[ {"ulke_id":9999, "country":"UPDATE APP!!", "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png", "ulke":"UPDATE APP", "ulke_url":"https://play.google.com/store/apps/details?id=com.mahocan.LotusEPG_PRO", "country_foto":"https://lh3.googleusercontent.com/YOjJEV1yUNy2DfiwklQvGHF1yEwk2nHhLPp2RtSrJ42GypkEjShpU9VRIzoW-P27Ew=s180-rw"},
+]}
+
 {"Kategory":[
 {"cat_id":9998,
 "kategory":"Telegram Grubumuz",
@@ -5,8 +8,6 @@
 "ulke":"Telegram Grubumuz",
 "cat_url":"https://t.me/joinchat/MNLF0w-V4XwQZJOSr6kzMw",
 "cat_foto":"https://1.bp.blogspot.com/-7vi-miz6tSc/XWseU6ipwbI/AAAAAAAAATc/qqvWZ8xswQ0YzCW4VCC4cBarOgE4aSIhwCLcBGAs/s1600/PicsArt_09-01-03.20.32.png"},
-
-{"ulke_id":9999, "country":"UPDATE APP!!", "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png", "ulke":"UPDATE APP", "ulke_url":"https://play.google.com/store/apps/details?id=com.mahocan.LotusEPG_PRO", "country_foto":"https://lh3.googleusercontent.com/YOjJEV1yUNy2DfiwklQvGHF1yEwk2nHhLPp2RtSrJ42GypkEjShpU9VRIzoW-P27Ew=s180-rw"}, 
 
 {"cat_id":9997,
 "kategory":"Yayın da Ne Var?",
