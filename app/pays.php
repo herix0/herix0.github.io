@@ -1,19 +1,10 @@
 {"Ulke":[
-
-{"ulke_id":9999,
-"country":"Telegram Grubumuz",
-"ulke_flag":"https://1.bp.blogspot.com/-CBxD_OnkGRI/X5DAoJcGJQI/AAAAAAAABrA/5ScAAbo2f5czkl9qu-hrKWNStqBLj19bQCLcBGAsYHQ/s0/PicsArt_10-22-01.09.55.png",
-"ulke":"Telegram Grubumuz",
-"ulke_url":"https://t.me/joinchat/MNLF0w-V4XwQZJOSr6kzMw",
-"country_foto":"https://1.bp.blogspot.com/-CBxD_OnkGRI/X5DAoJcGJQI/AAAAAAAABrA/5ScAAbo2f5czkl9qu-hrKWNStqBLj19bQCLcBGAsYHQ/s0/PicsArt_10-22-01.09.55.png"},
-
-
 {"ulke_id":6,
 "country":"Turkey",
-"ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png",
+"ulke_flag":"https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 "ulke":"Turkey",
 "ulke_url":"https://github.com/herix0/herix0.github.io/raw/master/app/ch/turkey/turkey.php",
-"country_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png"},
+"country_foto":"https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png"},
 
 {"ulke_id":9,
 "country":"Russia",
