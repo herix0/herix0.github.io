@@ -1,6 +1,6 @@
 {"Kategory":[
 {"cat_id":9999,
-"kategory":"Yorumla",
+"kategory":"Telegram Grubumuz",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/turkey.png",
 "ulke":"Telegram Grubumuz",
 "cat_url":"https://t.me/joinchat/MNLF0w-V4XwQZJOSr6kzMw",
