@@ -1,4 +1,4 @@
-{"Mobilim":[
+{"MobilTurk":[
 {"ads_tip":"Admob",
 "main_link":"https://github.com/herix0/herix0.github.io/raw/master/app/pays.php",
 "app_id":"",
