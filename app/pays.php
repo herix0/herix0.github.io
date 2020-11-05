@@ -20,6 +20,13 @@
 "ulke_url":"http://213.128.89.165/TEMEL/SowaProGuide/azeri/azeri_cat1.php",
 "country_foto":"http://213.128.89.165/Main/Flag/owl_bayrak/azeri.png"},
 
+{"ulke_id":35,
+"country":"Kurdish",
+"ulke_flag":"https://1.bp.blogspot.com/-yuIcE3kYeOA/X6SL2N_v4bI/AAAAAAAABsk/GGBXystwMjcK_q2sKtWbYX4ySmim11AagCLcBGAsYHQ/s0/flag_kurdistan.png",
+"ulke":"Kurdish",
+"ulke_url":"https://github.com/herix0/herix0.github.io/raw/master/app/ch/kurdish/kurdish.php",
+"country_foto":"https://1.bp.blogspot.com/-yuIcE3kYeOA/X6SL2N_v4bI/AAAAAAAABsk/GGBXystwMjcK_q2sKtWbYX4ySmim11AagCLcBGAsYHQ/s0/flag_kurdistan.png"},
+
 {"ulke_id":1,
 "country":"Bulgaria",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/bulgaria.png",
