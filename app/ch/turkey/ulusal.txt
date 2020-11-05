@@ -572,6 +572,25 @@
 		"Favori": 0,
 		"Secim": ""
 	},{
+		"KanalNo": "38108",
+		"KanalAdi": "TRT 1 TV HD 720P",
+		"KategoriNo": "38",
+		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
+		"Aciklama": "DINI KANALLAR",
+		"KanalLogo": "https://1.bp.blogspot.com/-m8LQNdFt1Ck/XWKnF4Y18vI/AAAAAAAAANs/Lg6nSd6O5EUHKZLi4AN4ZF7JomtjKdU6QCPcBGAYYCw/s1600/TiKI58Y.jpg",
+		"ServerUrl": "https://mn-nl.mncdn.com/blutv_trt1/trt1_sd.smil/chunklist_b2064000.m3u8",
+		"PlayerType": "vitamio",
+		"PlayerControl": "false",
+		"OpenType": "direct",
+		"PatternText": ",,,,,son",
+		"StaticText": ",,,,,son",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)",
+		"SonGuncellemeTarihi": "16.10.2016 22:21:24",
+		"Favori": 0,
+		"Secim": ""
+	},{
 		"KanalNo": "38079",
 		"KanalAdi": "TRT 2 HD 720P",
 		"KategoriNo": "38",
