@@ -1,1 +1,24 @@
-
+{
+	"Kanallar": [
+{
+		"KanalNo": "00095",
+		"KanalAdi": "BASLIK2",
+		"KategoriNo": "38",
+		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
+		"Aciklama": "YEREL KANALLAR",
+		"KanalLogo": "RESIM",
+		"ServerUrl": "LINK",
+		"PlayerType": "vitamio",
+		"PlayerControl": "false",
+		"OpenType": "direct",
+		"PatternText": ",,,,,son",
+		"StaticText": "",
+		"LinkIndex": "",
+		"Headers": "",
+		"UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
+		"SonGuncellemeTarihi": "15.10.2016 19:28:16",
+		"Favori": 0,
+		"Secim": ""
+	},
+	]
+}
