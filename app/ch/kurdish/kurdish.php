@@ -1,5 +1,5 @@
 {"Kategory":[
-{"cat_id":9998,
+{"cat_id":9999,
 "kategory":"Telegram Grubumuz",
 "ulke_flag":"https://1.bp.blogspot.com/-yuIcE3kYeOA/X6SL2N_v4bI/AAAAAAAABsk/GGBXystwMjcK_q2sKtWbYX4ySmim11AagCLcBGAsYHQ/s0/flag_kurdistan.png",
 "ulke":"Telegram Grubumuz",
