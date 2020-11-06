@@ -8,7 +8,7 @@
 
 {"cat_id":88888,
 "kategory":"Channels",
-"ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/spain.png",
+"ulke_flag":"https://1.bp.blogspot.com/-yuIcE3kYeOA/X6SL2N_v4bI/AAAAAAAABsk/GGBXystwMjcK_q2sKtWbYX4ySmim11AagCLcBGAsYHQ/s0/flag_kurdistan.png",
 "ulke":"Kurdish",
 "cat_url":"https://dl.dropboxusercontent.com/s/g28o57m2z21segu/channel_kurdish.txt?dl=0",
 "cat_foto":"http://www.freelogovectors.net/wp-content/uploads/2013/02/TV-Icon-9.png"},
