@@ -121,7 +121,7 @@
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "YEREL KANALLAR",
 		"KanalLogo": "https://2.bp.blogspot.com/-qf2gsMbOZNc/Xmz_eFEhyaI/AAAAAAAAA_M/abhlyeFUmEcR0DKQGM94NI9No-AtdADKwCLcBGAsYHQ/s1600/61C2TSxmMwL._SY355_.jpeg",
-		"ServerUrl": "https://app.slcksprtsinfo.com/app/kanal/140.json",
+		"ServerUrl": "https://app.slcksprtsapp.com/app/kanal/140.json",
 		"PlayerType": "vitamio",
 		"PlayerControl": "false",
 		"OpenType": "direct",
