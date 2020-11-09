@@ -10,7 +10,7 @@
 "kategory":"Ukraine Program Guide",
 "ulke_flag":"http://213.128.89.165/Main/Flag/owl_bayrak/Ukraine.png",
 "ulke":"",
-"cat_url":"https://github.com/herix0/herix0.github.io/raw/master/app/ch/epg_ukraine/epg_ukraine.txt",
+"cat_url":"https://github.com/herix0/herix0.github.io/raw/master/app/ch/ukraine/epg_ukraine.txt",
 "cat_foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4oh5slHdvB_tO3z-qVjl3FpPAOrnkI_0AHG8afCm1ivPSXzU"},
 
 {"cat_id":888,
