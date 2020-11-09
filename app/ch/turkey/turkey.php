@@ -37,7 +37,7 @@
 "kategory":"Spor",
 "ulke_flag":"https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 "ulke":"Turkey\/Spor",
-"cat_url":"https://github.com/herix0/herix0.github.io/raw/master/app/ch/turkey/spor.txt",
+"cat_url":"https://dl.dropboxusercontent.com/s/7b5ft0sin5i783g/spor.txt?dl=0",
 "cat_foto":"http://www.freelogovectors.net/wp-content/uploads/2013/02/TV-Icon-9.png"},
 
 {"cat_id":888,
