@@ -389,7 +389,7 @@
 		"Aciklama": "BELGESEL KANALLARI",
 		"KanalLogo": "https://4.bp.blogspot.com/-Tbhccd_1u3Y/XWKnF4WMu4I/AAAAAAAAAOM/_FyheXv_ZdsE3ZP9_Gi3llvURPFirwy0ACPcBGAYYCw/s1600/SZ3HBMY.png",
 		"ServerUrl": "https://cdn.yayin.com.tr/cine5/cine5/playlist.m3u8",
-		"PlayerType": "exoplayer",
+		"PlayerType": vitamio,
 		"PlayerControl": "false",
 		"OpenType": "direct",
 		"PatternText": ",,,,,son",
