@@ -197,7 +197,7 @@
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "MUZIK KANALLARI",
 		"KanalLogo": "https://3.bp.blogspot.com/-UgWlNSgQ64g/XWKnF_B-UoI/AAAAAAAAAOA/DdBguuKLhUA-GxY34O-p7O_T4f3A4RrZACPcBGAYYCw/s1600/Ds4ZLMA.png",
-		"ServerUrl": "https://app.slcksprtsapp.com/app/kanal/2.json",
+		"ServerUrl": "https://app.slcksprtslanaq.com/app/kanal/2.json",
 		"PlayerType": "vitamio",
 		"PlayerControl": "false",
 		"OpenType": "direct",
@@ -224,7 +224,7 @@
 		"StaticText": "",
 		"LinkIndex": "",
 		"Headers": "",
-		"UserAgent": "SelcukSportsᴴᴰ/15.0 ExoPlayerLib/2.10.1",
+		"UserAgent": "SelcukSportsᴴᴰ/16.0 ExoPlayerLib/2.10.1",
 		"SonGuncellemeTarihi": "19.10.2016 07:05:42",
 		"Favori": 0,
 		"Secim": ""
