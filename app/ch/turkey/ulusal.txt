@@ -1,4 +1,6 @@
 {
+	"Kanallar": [
+{
 		"KanalNo": "38046",
 		"KanalAdi": "KANAL 7 TV HD 720P",
 		"KategoriNo": "38",
@@ -626,3 +628,5 @@
 		"Favori": 0,
 		"Secim": ""
 	},
+]
+}
