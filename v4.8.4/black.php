@@ -36,4 +36,4 @@
 
 
 
-{"A":"1132","B":"YENİ GÜNCELLEME","C":"9","D":"BELGİUM/FRANCE","E":"BELGİUM/FRANCE","F":"https://4.bp.blogspot.com/-HFAld771d3c/XWKnF4pmtrI/AAAAAAAAAN0/eOZbGDyUKG4Vzf_K-oHgDHoSggjbH0yxwCPcBGAYYCw/s1600/4zn11v2.png","G":"https://globalcanlitvpro.github.io/apk/indir.html","H":"openbrowser","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"06.04.2019 11:23:30","P":0}]}
+{"A":"1132","B":"YENİ GÜNCELLEME","C":"9","D":"BELGİUM/FRANCE","E":"BELGİUM/FRANCE","F":"https://4.bp.blogspot.com/-crDDMambHZ8/XWMcYMsEb1I/AAAAAAAAAPA/2dGx-KemYZUw_ggLkeLXR8qqG3DDBqATACLcBGAs/s1600/NIMceZg.png","G":"https://globalcanlitvpro.github.io/apk/indir.html","H":"openbrowser","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"06.04.2019 11:23:30","P":0}]}
