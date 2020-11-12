@@ -268,7 +268,7 @@
 		"Secim": ""
 	}, {
 		"KanalNo": "38151",
-		"KanalAdi": "TV8 İNT TV HD 576P",
+		"KanalAdi": "TV8 İNT TV HD 720P",
 		"KategoriNo": "38",
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "BELGESEL KANALLARI",
@@ -344,19 +344,19 @@
 		"Secim": ""
 	},{
 		"KanalNo": "38066",
-		"KanalAdi": "TV4 HD",
+		"KanalAdi": "TV4 HD 720P",
 		"KategoriNo": "38",
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "SINEMA KANALLARI",
 		"KanalLogo": "https://1.bp.blogspot.com/-Du7v0OXvl8g/XvDJuRvJZ4I/AAAAAAAAApo/Zks6AgkFG6kBlisKVVqhcaRyORW-qbyawCK4BGAsYHg/s300/PicsArt_06-22-05.07.53.png",
-		"ServerUrl": "https://tv4.antensiz.tv/canli-izle",
+		"ServerUrl": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8",
 		"PlayerType": "vitamio",
 		"PlayerControl": "false",
 		"OpenType": "direct",
-		"PatternText": "['\"](http[^'\"]*m3u8[^'\"]*)['\"],,,,,,son",
+		"PatternText": ",,,,,son",
 		"StaticText": ",,,,,son",
 		"LinkIndex": "",
-		"Headers": "https://tv4.antensiz.tv/canli-izle",
+		"Headers": "",
 		"UserAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36",
 		"SonGuncellemeTarihi": "19.10.2016 11:24:54",
 		"Favori": 0,
