@@ -6,6 +6,13 @@
 "cat_url":"https://t.me/joinchat/MNLF0w-V4XwQZJOSr6kzMw",
 "cat_foto":"https://1.bp.blogspot.com/-7vi-miz6tSc/XWseU6ipwbI/AAAAAAAAATc/qqvWZ8xswQ0YzCW4VCC4cBarOgE4aSIhwCLcBGAs/s1600/PicsArt_09-01-03.20.32.png"},
 
+{"cat_id":9998,
+"kategory":"Müzik Player",
+"ulke_flag":"https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
+"ulke":"Müzik Player",
+"cat_url":"http://www.globalcanlitv.rf.gd/muzik-player.html?i=1",
+"cat_foto":"https://1.bp.blogspot.com/-9YXbWQVscu0/XreH4DlczWI/AAAAAAAABb4/hTkWhmy55dsX9NpN51CA6v59pLmLesTKQCK4BGAsYHg/PicsArt_05-01-03.50.29.jpg"},
+
 {"cat_id":9997,
 "kategory":"Bugün Tv'de Ne Var?",
 "ulke_flag":"https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
