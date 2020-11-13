@@ -11,7 +11,7 @@
 "ulke_flag":"https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 "ulke":"Müzik Player",
 "cat_url":"http://www.globalcanlitv.rf.gd/muzik-player.html?i=1",
-"cat_foto":"https://1.bp.blogspot.com/-9YXbWQVscu0/XreH4DlczWI/AAAAAAAABb4/hTkWhmy55dsX9NpN51CA6v59pLmLesTKQCK4BGAsYHg/PicsArt_05-01-03.50.29.jpg"},
+"cat_foto":"https://1.bp.blogspot.com/-9YXbWQVscu0/XreH4DlczWI/AAAAAAAABb4/hTkWhmy55dsX9NpN51CA6v59pLmLesTKQCK4BGAsYHg/s250/PicsArt_05-01-03.50.29.jpg"},
 
 {"cat_id":9997,
 "kategory":"Bugün Tv'de Ne Var?",
