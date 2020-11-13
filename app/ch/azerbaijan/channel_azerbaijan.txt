@@ -243,7 +243,7 @@
 		"PatternText": "['\"](http[^'\"]*m3u8[^'\"]*)['\"],,,,,,son",
 		"StaticText": ",,,,,son",
 		"LinkIndex": "",
-		"Headers": "",
+		"Headers": "https://izle.canlitvlive.io/",
 		"UserAgent": "Samsung SM-N9000Q stagefright\/Beyonce\/1.1.9 (Linux;Android 5.0)",
 		"SonGuncellemeTarihi": "19.10.2016 11:54:58",
 		"Favori": 0,
