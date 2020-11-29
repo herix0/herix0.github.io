@@ -83,7 +83,7 @@
 		"Bayrak": "https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
 		"Aciklama": "MUZIK KANALLARI",
 		"KanalLogo": "https://3.bp.blogspot.com/-P6wBMWpMcjY/Xj_d2rof4-I/AAAAAAAAA4o/J6H9bcSHgHcDgPAaD7BWERE5HhQiGX5wQCLcBGAsYHQ/s1600/PicsArt_02-09-11.22.35.png",
-		"ServerUrl": "http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8",
+		"ServerUrl": "https://canli.ensonhaber.com/tr/tgrtbelgesel/index.m3u8",
 		"PlayerType": "vitamio",
         "PlayerControl": "false",
         "OpenType": "direct",
