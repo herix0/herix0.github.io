@@ -201,7 +201,7 @@
 		"PlayerType": "exoplayer",
 		"PlayerControl": "false",
 		"OpenType": "direct",
-		"PatternText":,,,,,,son",
+		"PatternText": ",,,,,,son",
 		"StaticText": "",
 		"LinkIndex": "",
 		"Headers": "",
