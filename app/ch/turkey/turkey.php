@@ -26,6 +26,13 @@
 "cat_url":"",
 "cat_foto":"https://1.bp.blogspot.com/-GfYtOZLK1R8/X6RnijEHnVI/AAAAAAAABsY/DocIXjL9piUKZ8CxyddoVPKO64dZAzxRQCLcBGAsYHQ/s0/PicsArt_11-05-09.57.51.png"},
 
+{"cat_id":9998,
+"kategory":"Spor, Belgesel, Sinema Kanalları Hakkında!",
+"ulke_flag":"https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
+"ulke":"Spor, Belgesel, Sinema Kanalları Hakkında!",
+"cat_url":"https://iptvpro93.github.io/bilgikanal.html",
+"cat_foto":"https://1.bp.blogspot.com/-7YsGGz8qTc4/X8wRPM2aRgI/AAAAAAAAAxY/fKm_FqwJQccPtZxozWmB_YD3Mtc3ufs8ACLcBGAsYHQ/s0/PicsArt_12-05-11.58.55.png"},
+
 {"cat_id":888,
 "kategory":"Ulusal",
 "ulke_flag":"https://1.bp.blogspot.com/-I4ms6mqyBI4/X5GHSfPOHpI/AAAAAAAABrM/DMSNOXs15FU8eLg2sKuGECBsSDmfqHgpgCLcBGAsYHQ/s0/turkey.png",
