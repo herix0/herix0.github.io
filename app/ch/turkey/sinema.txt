@@ -15,7 +15,7 @@
 		"StaticText": "",
 		"LinkIndex": "",
 		"Headers": "",
-		"UserAgent": "SelcukSportsᴴᴰ/15.0 ExoPlayerLib/2.10.1",
+		"UserAgent": "Dalvik/2.1.0 (Linux; U; Android 7.0; SM-J330F Build/NRD90M)",
 		"SonGuncellemeTarihi": "15.10.2016 19:28:16",
 		"Favori": 0,
 		"Secim": ""
